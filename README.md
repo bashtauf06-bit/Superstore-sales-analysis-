@@ -16,6 +16,9 @@ Analyzed 9,800+ sales transactions from a retail superstore dataset using Python
    - HP Designjet T520 Inkjet Large Format Printer-24
 3. **Identified seasonal sales patterns** over time
 
+### Charts
+![Sales by Region](paste-image-link-here)
+
 ## 📊 Visualizations
 - Line chart: Monthly Sales Trend
 - Bar chart: Total Sales by Region
