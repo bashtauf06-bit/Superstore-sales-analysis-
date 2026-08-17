@@ -18,7 +18,7 @@ Analyzed 9,800+ sales transactions from a retail superstore dataset using Python
 
 ### Charts
 ![Sales by Region](Total%20Sales%20by%20Region.PNG)
-Fix chart image  
+ 
 
 ## 📊 Visualizations
 - Line chart: Monthly Sales Trend
