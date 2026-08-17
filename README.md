@@ -17,7 +17,8 @@ Analyzed 9,800+ sales transactions from a retail superstore dataset using Python
 3. **Identified seasonal sales patterns** over time
 
 ### Charts
-![Sales by Region](paste-image-link-here)
+![Sales by Region](https://github.com/bashtauf06-bit/Superstore-sales-analysis-/raw/main/Total%20Sales%20by%20Region.PNG)
+Add chart image in the commit box 
 
 ## 📊 Visualizations
 - Line chart: Monthly Sales Trend
